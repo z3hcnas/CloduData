@@ -1,0 +1,6 @@
+[submodule "server-CloudData"]
+	path = server-CloudData
+	url = https://github.com/z3hcnas/server-CloudData
+[submodule "frontend-CLoudData"]
+	path = frontend-CLoudData
+	url = https://github.com/z3hcnas/frontend-CLoudData
